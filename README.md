@@ -16,7 +16,7 @@ Pot tenir activat i desactivat l'accés amb contrasenya: false/true:
 // Canvia a false per entrar directament sense contrasenya
 const REQUIERE_CONTRASENYA = false; 
 
-Contrasenya d'administrador per eliminar publicacions.
+Disposa de contrasenya d'administrador per eliminar publicacions.
 
 DADES AMB JSONBIN.IO 
 Com el servidor github no permet guardar dades s'ha implementat connexió amb aquesta.
