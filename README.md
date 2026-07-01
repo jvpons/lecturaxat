@@ -1,2 +1,13 @@
 # lecturaxat
-Fòrum de lectura
+Club de lectura.
+La web es pot pujar en un servidor web i funciona amb només un html.
+El lector pot pujar la imatge d'un llibre de lecturai fer un comentari. Qualificar la lectura fins a 5 estrel·les. També pot comentar altres publicacions.
+
+Pot tenir activarse i desactivar l'accés amb contrasenya: false/true:
+
+// ── ACTIVAR / DESACTIVAR CONTRASENYA D'ACCÉS ──
+// Canvia a true  per demanar contrasenya al entrar
+// Canvia a false per entrar directament sense contrasenya
+const REQUIERE_CONTRASENYA = false; 
+
+Contrasenya d'administrador per eliminar publicacions.
