@@ -1,6 +1,8 @@
 # lecturaxat
 Club de lectura per a publicar lectures de llibres.
+
 La web es pot pujar en un servidor web i funciona amb només un html.
+
 El lector pot pujar la imatge d'un llibre de lectura i fer un comentari. Qualificar la lectura fins a 5 estreles. Realitzar comentaris d'altres publicacions.
 
 Pot tenir activat i desactivat l'accés amb contrasenya: false/true:
