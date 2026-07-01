@@ -11,3 +11,6 @@ Pot tenir activarse i desactivar l'accés amb contrasenya: false/true:
 const REQUIERE_CONTRASENYA = false; 
 
 Contrasenya d'administrador per eliminar publicacions.
+
+DADES AMB JSONBIN.IO 
+Com el servidor github no permet guardar dades (a l'espera de que la Conselleria d'Educció de la Generalitat Valenciana active un servidor de dades de Microsoft)
