@@ -1,4 +1,6 @@
-# lecturaxat
+# lecturaxat v1.0.1 
+https://jvpons.github.io/lecturaxat/
+
 Club de lectura per a publicar lectures de llibres.
 
 La web es pot pujar en un servidor web i funciona amb només un html.
