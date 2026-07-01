@@ -1,9 +1,9 @@
 # lecturaxat
-Club de lectura.
+Club de lectura
 La web es pot pujar en un servidor web i funciona amb només un html.
-El lector pot pujar la imatge d'un llibre de lecturai fer un comentari. Qualificar la lectura fins a 5 estrel·les. També pot comentar altres publicacions.
+El lector pot pujar la imatge d'un llibre de lectura i fer un comentari. Qualificar la lectura fins a 5 estreles. Realitzar comentaris d'altres publicacions.
 
-Pot tenir activarse i desactivar l'accés amb contrasenya: false/true:
+Pot tenir activat i desactivat l'accés amb contrasenya: false/true:
 
 // ── ACTIVAR / DESACTIVAR CONTRASENYA D'ACCÉS ──
 // Canvia a true  per demanar contrasenya al entrar
@@ -13,4 +13,4 @@ const REQUIERE_CONTRASENYA = false;
 Contrasenya d'administrador per eliminar publicacions.
 
 DADES AMB JSONBIN.IO 
-Com el servidor github no permet guardar dades (a l'espera de que la Conselleria d'Educció de la Generalitat Valenciana active un servidor de dades de Microsoft)
+Com el servidor github no permet guardar dades s'ha implementat connexió amb aquesta.
